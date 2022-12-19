@@ -1,1 +1,23 @@
+/*
+  Color Palette
+  Nude: #E2D9CA
+  Blue Gray: #4A94A8
+  Dark Blue: #2B293C
+  Purple: #6A4973
+*/
+
+body {
+ background-color: #2B293C;
+}
+h1 {
+ background-color: #4A94A8;
+ color: white;
+ border-style: solid;
+ border-color: #6A4973;
+}
+li {
+ background-color: #4A94A8;
+ border-style: solid;
+ border-color: #6A4973;
+}
 
