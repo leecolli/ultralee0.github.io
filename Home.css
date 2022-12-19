@@ -29,9 +29,11 @@ h2 {
  padding: 10px;
  color: white;
 }
-.img {
+img {
   max-width: 30%;
   width: 100%;
+}
+.img {
   text-align: center;
 }
 
