@@ -30,10 +30,8 @@ h2 {
  color: white;
 }
 img {
-  display: block;
-  margin: auto;
-  padding: 10px;
   max-width: 100px;
   width: 100%
+  text-align: center;
 }
 
